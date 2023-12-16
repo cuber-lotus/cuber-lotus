@@ -2,7 +2,13 @@
 
 C/C++ 工程师
 
-base 苏州，上海；hr看过来啊！！！
+leetcode-cn 官方签约创作者
+
+魔方是什么？能吃吗？
+
+收了味的二次元
+
+
 
 # :label:个人频道 Channels
 
@@ -24,12 +30,21 @@ base 苏州，上海；hr看过来啊！！！
 - ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
-<div align=center>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuber-lotus&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-- ![visit times](https://profile-counter.glitch.me/cuber-lotus/count.svg)
 
-</div>
+# :label:平台数据 Data Card
+
+![visit times](https://profile-counter.glitch.me/cuber-lotus/count.svg)
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=cuber-lotus&show_icons=true&hide_border=true" alt="github-stats" width="58%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuber-lotus&layout=compact&hide_border=true&langs_count=10" alt="used languages" width="37%" /> 
+</p>
+
+<p>
+    <img src="https://stats.justsong.cn/api/leetcode/?username=cuber-lotus&cn=true&lang=zh-CN&theme=blueberry" alt="leetcode-cn" width="49%" />
+    <img src="https://stats.justsong.cn/api/csdn?id=CUBE_lotus&lang=zh-CN&theme=prussian" alt="csdn" width="49%" /> 
+</p>
 
 
 # :label:开源仓库 Public Repositories
@@ -43,7 +58,7 @@ base 苏州，上海；hr看过来啊！！！
 
 > 注意：在leetcode的题单会不定期更新，同时会不定期被审核不过！因此想要被吞或者离线题单的可以加群或者b站私聊！
 
-![leetcode-2023](README.assets/leetcode-2023.png)
+<img src="README.assets/leetcode-2023.png" alt="leetcode-2023" style="zoom: 25%;" />
 
 ## 💥总览
 
