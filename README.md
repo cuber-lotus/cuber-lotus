@@ -19,7 +19,7 @@
 
 
  <div align="center"> 
-     <img src="images/qrcode-bilibili.png" style="zoom: 25%;" />
+     <img src="images/qrcode-bilibili.png" style="width: 30%; height: 30%;" />
  </div>
 
 
