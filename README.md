@@ -18,6 +18,12 @@
 
 
 
+ <div align="center"> 
+     <img src="images/qrcode-bilibili.png" style="zoom: 25%;" />
+ </div>
+
+
+
 # :label:技能概述 Skills
 
 - CCPC 江苏省铜
