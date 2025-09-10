@@ -1,10 +1,10 @@
 # :label:基本信息 Basic Information
 
-<img src="README.assets/4B.jpg" align="right" style="width: 25%; height: 25%;" />
+<img src="README.assets/4B.jpg" align="right" style="width: 20%; height: 20%;" />
 
 - C/C++ 工程师
-- leetcode-cn 官方签约创作者
-- 《计算机程序设计艺术》4B 审读专家
+- [leetcode-cn](https://leetcode.cn/u/cuber-lotus/) 官方签约创作者
+- 《[计算机程序设计艺术](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)》4B 审读专家
 - 退役魔方老登
 - 业余花切爱好者
 
