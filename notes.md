@@ -1,5 +1,7 @@
 应该是要开vpn才通
 
+挂了
+
 ![visit times](https://profile-counter.glitch.me/cuber-lotus/count.svg)
 
 

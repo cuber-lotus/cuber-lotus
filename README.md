@@ -1,13 +1,16 @@
 # :label:基本信息 Basic Information
 
+<img src="README.assets/4B.jpg" align="right" style="width: 25%; height: 25%;" />
+
 - C/C++ 工程师
 - leetcode-cn 官方签约创作者
-- 魔方是什么？能吃吗？
-- 收了味的二次元
-
-
+- 《计算机程序设计艺术》4B 审读专家
+- 退役魔方老登
+- 业余花切爱好者
 
 # :label:个人频道 Channels
+
+<img src="README.assets/qrcode-bilibili.png" align="right" style="width: 20%; height: 20%;" />
 
 * 🔗 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuber-lotus)
 * 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/cuber-lotus/)
@@ -16,28 +19,15 @@
 * 🔗 [![emial](https://img.shields.io/badge/email-1539349804@qq.com-blue)](1539349804@qq.com)
 * 🔗 ![emial](https://img.shields.io/badge/QQ群-817328828-sky)
 
-
-
- <div align="center"> 
-     <img src="images/qrcode-bilibili.png" style="width: 30%; height: 30%;" />
- </div>
-
-
-
 # :label:技能概述 Skills
 
-- CCPC 江苏省铜
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
--  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 - ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 - ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-
-
+- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
 # :label:平台数据 Data Card
-
-![visit times](https://profile-counter.glitch.me/cuber-lotus/count.svg)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=cuber-lotus&show_icons=true&hide_border=true" alt="github-stats" width="58%" />
